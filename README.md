@@ -2,7 +2,8 @@
 
 ## Introduction
 This Jupyter notebook provides a tool to simulate and visualize daily conversion rates. By adjusting parameters like the target conversion rate, number of simulations, visitors per day, and total days, users can generate and inspect simulated data. The tool also allows users to view individual simulations and confidence intervals around the target conversion rate.
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/erikmalk/Daily_Conversion_Rate_Simulation/HEAD?labpath=https%3A%2F%2Fgithub.com%2Ferikmalk%2FDaily_Conversion_Rate_Simulation%2Fblob%2Fmain%2Fdaily_conversion_rate_simulation.ipynb)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/erikmalk/Daily_Conversion_Rate_Simulation/HEAD?urlpath=https%3A%2F%2Fgithub.com%2Ferikmalk%2FDaily_Conversion_Rate_Simulation%2Fblob%2Fmain%2Fdaily_conversion_rate_simulation.ipynb)
 
 ## Dependencies
 - numpy
